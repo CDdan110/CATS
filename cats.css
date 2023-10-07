@@ -50,7 +50,7 @@ header {
 
 h1 {
     margin-top: 15px;
-    font-size: 72px;
+    font-size: 65px;
 }
 
 .subheader {
@@ -63,15 +63,6 @@ h1 {
     flex-direction: column;
 }
 
-button {
-    background-color: #cafdff;
-    color: white;
-    border: none;
-    padding: 8px 16px;
-    font-size: 24px;
-    cursor: pointer; 
-    
-}
 
 a {
     color: black;
