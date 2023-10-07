@@ -109,7 +109,7 @@ ABOUT
 
 
 #about,
-#discord,
+#discord
 #content,
 footer {
     padding: 48px 0;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .about__img--wrapper {
-    width: 40%;
+    
     padding: 0 24px;
 }
 
@@ -162,13 +162,11 @@ DISCORD
 */
 
 #discord {
+    padding: 48px 0;
     background-color: #cefeff;
 }
 
 
-.discord__img--wrapper {
-
-}
 
 /*
 
