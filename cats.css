@@ -216,3 +216,15 @@ footer {
 .footer__link {
     padding: 0 16px;
 }
+
+.section__cats--two {
+padding: 24px 24px;
+}
+
+.section__brown {
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 10px 28px;
+}
+
